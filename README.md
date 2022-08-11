@@ -32,3 +32,4 @@ Improved the buit model by transforming, recoding etc. variables meaningfully.
 Checked for the model assumptions.
 
 Validated the model using a testing dataset.
+[CMM703_CW_Q2_InsuranceData_Analysis.pdf](https://github.com/susudu/Insurance_Premium_Prediction/files/9308947/CMM703_CW_Q2_InsuranceData_Analysis.pdf)
