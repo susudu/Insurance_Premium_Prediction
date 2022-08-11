@@ -6,19 +6,19 @@ in a famous insurance company in Sri Lanka. It includes some characteristics of 
 
 The features are:
 
-                  *age: age of the insurance contractor
+                  * age: age of the insurance contractor
                   
-                  *sex: gender of the insurance contractor 
+                  * sex: gender of the insurance contractor 
                   
-                  *bmi: body mass index of the contractor (kg / m ^ 2)
+                  * bmi: body mass index of the contractor (kg / m ^ 2)
                   
-                  *num_kids: number of children covered by health insurance
+                  * num_kids: number of children covered by health insurance
                   
-                  *smoking_status: smoking status of the insurance contractor
+                  * smoking_status: smoking status of the insurance contractor
                   
-                  *district: residential area of the beneficiary; Colombo, Galle, Badulla and Trinco
+                  * district: residential area of the beneficiary; Colombo, Galle, Badulla and Trinco
                   
-                  *premium: monthly insurance premium decided by health insurance company
+                  * premium: monthly insurance premium decided by health insurance company
                   
 This data analytics and prediction model building project includes thorough descriptive analysis/ EDA with identifying the patterns and potential 
 significant variables.
